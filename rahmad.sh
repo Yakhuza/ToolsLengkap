@@ -50,55 +50,15 @@ echo
 echo
 echo
 echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
-sleep 1
-echo '''\a
-\033[35;1m                            _____
-\033[35;1m                           |___ /
-\033[35;1m                             |_ \
-\033[35;1m                            ___) |
-\033[35;1m                           |____/ '''
-sleep 1
-clear
-echo
-echo
-echo
-echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
-sleep 1
-echo '''\a
-\033[33;1m                            _  _
-\033[33;1m                           | || |
-\033[33;1m                           | || |_
-\033[33;1m                           |__   _|
-\033[33;1m                              |_| '''
-sleep 1
-clear
-echo
-echo
-echo
-echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa sayang :v"
-sleep 1
-echo '''\a
-\033[36;1m                             ____
-\033[36;1m                            | ___|
-\033[36;1m                            |___ \
-\033[36;1m                             ___) |
-\033[36;1m                            |____/ '''
 sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR    :  RAHMAD  "$i"                  Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp  :  0888099xxxxx"$i"              Ôûê"
-echo $i"Ôûê"$pu"  GMAIL     :  kucingkaget22@gmail.com"$i"   Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE   :  YouTube RMD"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @19_mamadee"$i"               Ôûê"
-echo $i"Ôûê"$pu"  INSTAGRAM :  @ardeaseptiaaani"$i"          Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR    :  Nazril"$i"                  Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp  :  088297025461"$i"              Ôûê"
+echo $i"Ôûê"$pu"  GMAIL     :  ilhamnazril612@gmail.com"$i"   Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE   :  Crat Creator"$i"               Ôûê"
+echo $i"Ôûê"$pu"  INSTAGRAM :  @nazril_006"$i"               Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
@@ -123,7 +83,7 @@ read -p"Ôò¦ÔöÇ>> " pil
 if [ $pil = 1 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/IlayTamvan/Report.git
 cd Report
@@ -134,7 +94,7 @@ fi
 if [ $pil = 2 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/Senitopeng/fbbrute.git
 cd fbbrute
@@ -144,7 +104,7 @@ fi
 if [ $pil = 3 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/FR13ND8/Fb-Cracker-v.3.git
 cd Fb-Cracker-v.3
@@ -154,7 +114,7 @@ fi
 if [ $pil = 4 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/tikuskecil/multi-bruteforce-facebook.git
 cd multi-bruteforce-facebook
@@ -164,7 +124,7 @@ fi
 if [ $pil = 5 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/wahyuandhika/YahooCloning.git
 cd YahooCloning
@@ -176,7 +136,7 @@ fi
 if [ $pil = 6 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/CiKu370/OSIF.git
 cd OSIF
@@ -187,7 +147,7 @@ fi
 if [ $pil = 7 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/jaxBCD/FBshield.git
 cd FBshield
@@ -197,7 +157,7 @@ fi
 if [ $pil = 8 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/edi-nasa12/ROBOT.git
 cd ROBOT
@@ -207,7 +167,7 @@ fi
 if [ $pil = 9 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/404rgr/spamerCALL
 cd spamerCALL
@@ -217,7 +177,7 @@ fi
 if [ $pil = 10 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/4L13199/LITESPAM.git
 cd LITESPAM
@@ -227,7 +187,7 @@ fi
 if [ $pil = 11 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/rahmadxyz/sub-bot.git
 cd sub-bot
@@ -237,7 +197,7 @@ fi
 if [ $pil = 12 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/thelinuxchoice/locator.git
 cd locator
@@ -247,7 +207,7 @@ fi
 if [ $pil = 13 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
+figlet -f slant "K O N T O L"|lolcat
 sleep 1
 git clone https://github.com/TERMUXID3/brutal-sms
 cd brutal-sms
@@ -258,7 +218,7 @@ fi
 if [ $pil = 14 ]
 then
 clear
-figlet -f slant "W A I T"|Ulolcat
+figlet -f slant "K O N T O L"|Ulolcat
 sleep 2
 echo $cy"Terima Kasih sudah mengunakan Tools ini"
 sleep 2
@@ -266,12 +226,11 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Rahmad Ramadhani"
-echo $ku"YouTube  :"$i" YouTube RMD"
-echo $ku"WhatsApp :"$i" 0887882xxxx"
+echo $ku"Facebook :"$i" Nazril Ilham"
+echo $ku"WhatsApp :"$i" 088297025461"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
+echo $pur"SUBSCRIBE MY CHANNEL { CRAT CREATOR }"
 exit
 fi
